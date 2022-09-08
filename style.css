@@ -19,6 +19,7 @@
 
 .banner {
     background-color: rgba(23, 105, 228, 0.185);
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/2/23/US_one_dollar_bill%2C_obverse%2C_series_2009.jpg);
     color: rgb(60, 5, 92);
     margin-top: 50px;
     text-align: center;
@@ -53,8 +54,6 @@
     font-size: 50px;
     font-family: fantasy;
     color: white;
-    background-image: url(https://upload.wikimedia.org/wikipedia/commons/2/23/US_one_dollar_bill%2C_obverse%2C_series_2009.jpg);
-    background-size: auto;
 }
 
 p {
