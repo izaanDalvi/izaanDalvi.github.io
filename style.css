@@ -1,0 +1,86 @@
+.navbar {
+    position: fixed;
+    width: 30%;
+    height: 200px;
+    top:0;
+    background-image: url(../images/1efe4e06ed9a2360b9fccb2f8441719a_768x0.jpg);
+}
+
+.navbar li {
+    display: inline-block;
+    padding: 0px 20px;
+    background-color: lightslategrey;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: black;
+}
+
+.banner {
+    background-color: rgba(23, 105, 228, 0.185);
+    color: rgb(60, 5, 92);
+    margin-top: 50px;
+    text-align: center;
+    padding: 20px 0px;
+
+}
+
+#small-tate {
+    width: 300px;
+    height: 300px;
+    margin: 0px auto;
+    filter: drop-shadow(3px 3px 3px rgb(168, 34, 34));
+}
+
+#tate {
+    color: goldenrod;
+    font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bold {
+    font-weight: 900;
+}
+
+.container {
+    width: 800px;
+    height: 310px;
+    margin: 0 auto;
+}
+
+#enroll {
+    font-size: 50px;
+    font-family: fantasy;
+    color: darkgreen;
+}
+
+p {
+    font-size: 30px;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+li {
+    font-size: 30px;  
+}
+
+a.blue {
+    color: blue;
+}
+
+.container ul {
+    list-style-type: none;
+}
+
+.avatar {
+    background-image: url(../images/logo\ tate.png);
+    background-size: cover;
+    height: 50px;
+    width: 50px;
+    border-radius: 50;
+    display: inline-block;
+    vertical-align: middle;
+}
